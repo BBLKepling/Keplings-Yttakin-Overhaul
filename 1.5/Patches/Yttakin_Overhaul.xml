@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/XenotypeDef[defName="Yttakin"]/genes</xpath>
+    <value>
+      <li>BBLK_Tongue_Cleaning</li>
+      <li>BBLK_WildShitter</li>
+    </value>
+  </Operation>
+
+</Patch>

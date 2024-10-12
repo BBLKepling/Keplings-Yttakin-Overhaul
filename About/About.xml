@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Kepling's Yttakin Overhaul</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.yttakinoverhaul</packageId>
+  <description>Adds the Tongue Cleaning and Wild Shitter genes from More Catgirl Genes to Yttakin.</description>
+  <modDependencies>
+    <li>
+      <packageId>bblkepling.morecatgirlgenes</packageId>
+      <displayName>More Catgirl Genes</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3347135065</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Dubwise.DubsBadHygiene</packageId>
+      <displayName>Dubs Bad Hygiene</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/836308268</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+  </loadAfter>
+</ModMetaData>
